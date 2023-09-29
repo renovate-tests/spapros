@@ -25,7 +25,7 @@ docutils==0.17
 entrypoints==0.4
 fastjsonschema==2.16.1
 filelock==3.8.0
-fonttools==4.34.4
+fonttools==4.43.0
 gitdb==4.0.9
 gitpython==3.1.27
 h5py==3.7.0
