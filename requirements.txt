@@ -131,7 +131,7 @@ traitlets==5.3.0
 typing-extensions==4.3.0
 umap-learn==0.5.3
 upsetplot==0.6.1
-urllib3==1.26.11
+urllib3==1.26.17
 venndata==0.1.0
 virtualenv==20.16.3
 wcwidth==0.2.5
